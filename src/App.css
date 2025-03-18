@@ -1,0 +1,16 @@
+.custom-btn{
+  color:#c32148;
+  font-size:25px;
+  text-decoration: none;
+  padding:5px;
+ }
+ 
+ .custom-btn:hover{
+ border:1px solid #c32148 ;
+ padding:5px;
+ border-radius: 3px;
+ }
+ 
+ .custom-btn.active {
+     text-decoration: underline;
+   }
