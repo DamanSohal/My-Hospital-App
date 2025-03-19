@@ -2,6 +2,7 @@ div.sticky{
   position: sticky;
   top: 0;
 }
+
 /* Navbar Styling */
 .navbar {
   display: flex;
