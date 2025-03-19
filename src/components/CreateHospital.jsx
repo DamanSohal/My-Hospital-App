@@ -10,6 +10,8 @@ const CreateHospitalForm = () => {
     alert("Hospital Created!");
   };
 
+ //this is our form
+ 
   return (
     <div>
       <h1>Create a New Hospital</h1>
