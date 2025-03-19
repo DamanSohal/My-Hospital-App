@@ -3,7 +3,7 @@ import './Create_new_account.css';
 import { auth, db } from './firebaseConfig';
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { collection, query, where, getDocs, setDoc, doc } from 'firebase/firestore';
-
+// its my file
 const Create = ({ isOpen, onClose }) => {
     const [fullName, setFullName] = useState('');
     const [email, setEmail] = useState('');
